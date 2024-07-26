@@ -57,12 +57,12 @@ public class Main {
 
 
 
-        //從網站中寫入JSON資料
-        //  readJson();
-        //輸出成CSV格式資料
-        //  exportCSV();
-        //輸出成JSON格式資料
-        //  exportJSON();
+//        從網站中寫入JSON資料
+          readJson();
+//        輸出成CSV格式資料
+          exportCSV();
+//        輸出成JSON格式資料
+          exportJSON();
     }
 
     public static void readJson() {
